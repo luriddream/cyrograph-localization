@@ -1,4 +1,4 @@
-# 📦 CYROGRAPH Localization
+# 🌐 CYROGRAPH Localization
 
 Localization project for the game [CYROGRAPH](https://luriddream.itch.io/cyrograph).
 
