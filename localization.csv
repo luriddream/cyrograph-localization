@@ -32,3 +32,10 @@ _ENEMY_WALKER_NAME,WALKER,SZWĘDACZ
 _ENEMY_WALKER_DESCRIPTION,Description,Opis
 _ENEMY_FAST_NAME,FAST,SZYBKI
 _ENEMT_FAST_DESCRIPTION,Description,Opis
+
+_ITEM_FIREBALL_NAME,FIREBALL,KULA OGNIA
+_ITEM_FIREBALL_DESCRIPTION,Fire into random enemy in range.,Strzela w losowych przeciwników w zasięgu.
+_ITEM_EXP_BOOST_NAME,EXP BOOST,EXP BOOST
+_ITEM_EXP_BOOST_DESCRIPTION,Speeds up leveling up.,Przyśpiesza zdobywanie poziomów.
+_ITEM_SWIFNESS_NAME,SWIFNESS,LEKKOŚĆ
+_ITEM_SWIFNESS_DESCRIPTION,Gives a movement speed boost.,Zwiększa prędkość poruszania.
